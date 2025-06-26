@@ -1,4 +1,4 @@
-// Vencord e9794db
+// Vencord f4754aa
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
