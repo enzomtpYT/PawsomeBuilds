@@ -1,4 +1,4 @@
-// Vencord fd4e861
+// Vencord d0e7061
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
