@@ -1,4 +1,4 @@
-// Vencord f28133a
+// Vencord 96af7db
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
